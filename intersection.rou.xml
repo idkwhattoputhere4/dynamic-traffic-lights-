@@ -1,0 +1,11 @@
+<routes>
+    <vType id="car" accel="2.6" decel="4.5" length="5.0" minGap="2.5" maxSpeed="13.89"/>
+    <route id="r_0" edges="B1A1 A1B2"/>
+    <flow id="f_0" type="car" route="r_0" begin="0" end="2000" period="2.0"/>
+    <route id="r_1" edges="B2A1 A1B3"/>
+    <flow id="f_1" type="car" route="r_1" begin="0" end="2000" period="2.0"/>
+    <route id="r_2" edges="B3A1 A1B4"/>
+    <flow id="f_2" type="car" route="r_2" begin="0" end="2000" period="2.0"/>
+    <route id="r_3" edges="B4A1 A1B1"/>
+    <flow id="f_3" type="car" route="r_3" begin="0" end="2000" period="2.0"/>
+</routes>

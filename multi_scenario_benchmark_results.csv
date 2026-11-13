@@ -1,0 +1,8 @@
+Scenario,Vehicles,Fixed_Avg_Wait_Veh,Dynamic_Avg_Wait_Veh,Delay_Reduction_%,Fixed_Steps,Dynamic_Steps
+Scenario 1 — Balanced,800,126.61,28.62,77.4,1464,1464
+Scenario 2 — North/South Heavy,800,192.31,43.2,77.5,1544,1566
+Scenario 3 — East/West Heavy,800,132.09,34.19,74.1,1500,1470
+Scenario 4 — Rush Hour,662,52009.92,50594.88,2.7,3600,3600
+Scenario 5 — Low Traffic,250,102.6,24.14,76.5,1228,1192
+Scenario 6 — Uneven Traffic,800,199.23,36.95,81.5,1545,1541
+Scenario 7 — Emergency Vehicle,800,124.43,28.61,77.0,1507,1498

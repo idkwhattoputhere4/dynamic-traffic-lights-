@@ -1,0 +1,3 @@
+Control_Type,Total_Vehicles,Total_Wait_Time,Avg_Wait_Per_Step,Avg_Wait_Per_Vehicle
+Fixed Signal,4000,957084.0,184.26723142087025,239.271
+AI Dynamic Signal,4000,277447.0,54.49754468670202,69.36175
